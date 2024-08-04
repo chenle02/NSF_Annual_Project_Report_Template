@@ -154,8 +154,6 @@ volutpat enim. Aliquam eu nunc. Nunc sed turpis. Sed mollis, eros et ult
 
 ```
 
-
-
 2. What was accomplished under these goals and objectives (you must provide
    information for at least one of the 4 categories below)? (As the project
    progresses, the emphasis in reporting in this section should shift from
@@ -484,6 +482,8 @@ impact, on commercial technology or public use.
 Describe how results from the project made an impact, or are likely to make an
 impact, beyond the bounds of science, engineering, and the academic world.
 
+  * [ ] Nothing to report.
+  * [ ] 8000 characters.
 
 11.  What percentage of the award's budget was spent in a foreign country? 
 
