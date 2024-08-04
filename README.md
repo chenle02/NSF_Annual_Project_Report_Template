@@ -163,7 +163,7 @@ volutpat enim. Aliquam eu nunc. Nunc sed turpis. Sed mollis, eros et ult
 
   1. [ ] Major activities (8000 characters):
   2. [ ] Specific activities (8000 characters):
-  3. [ ] Specific results (8000 characters):
+  3. [ ] Significant results (8000 characters):
   4. [ ] Key outcomes or Other achievements (8000 characters):
 
 3. What opportunities for training and professional development has the project
