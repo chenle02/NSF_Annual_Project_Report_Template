@@ -18,7 +18,7 @@
 
 # Accomplishments
 
-1. Accomplishments - What was done? What was learned?
+Accomplishments - What was done? What was learned?
 
 > For NSF purposes, the PI should provide accomplishments in the context of the
 > NSF merit review criteria of intellectual merit and broader impacts, and
@@ -35,11 +35,11 @@
 > Policies & Procedures Guide for a complete listing of Grantee Notifications
 > To and Requests For Approval From the National Science Foundation.
 
-  * If there is nothing significant to report during this reporting period,
-    please check "Nothing to Report" if applicable.
-  * Required fields
-  * What are the major goals of the project? (For purposes of NSF, what are the
-    major research goals and objectives of the project?)
+ If there is nothing significant to report during this reporting period, please
+check "Nothing to Report" if applicable.
+
+1. What are the major goals of the project? (For purposes of NSF, what are the
+   major research goals and objectives of the project?)
 
   * [ ] Nothing to report.
   * [X] 8000 characters.
